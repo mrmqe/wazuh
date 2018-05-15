@@ -18,6 +18,7 @@ All notable changes to this project will be documented in this file.
 - Added option for setting the group that the agent belongs to when registering it with authd ([#460](https://github.com/wazuh/wazuh/pull/460))
 - Added option for setting the source IP when the agent registers with authd ([#460](https://github.com/wazuh/wazuh/pull/460))
 - Included millisecond timing in timestamp to JSON events. ([#467](https://github.com/wazuh/wazuh/pull/467))
+- Add Syscheck improvements ([#605](https://github.com/wazuh/wazuh/pull/605))
 
 ### Changed
 
